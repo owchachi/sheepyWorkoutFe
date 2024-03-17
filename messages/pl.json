@@ -1,0 +1,28 @@
+{
+  "common": {
+    "password": "Hasło",
+    "email": "E-mail",
+    "sheepyWorkout": "Sheepy Workout"
+  },
+  "auth": {
+    "welcomeTo": "Witamy w",
+    "trackAndAnalyzeYourWorkout": "Śledź i analizuj swój progress na siłowni"
+  },
+  "signUp": {
+    "register": "Zarejestruj się",
+    "repeatPassword": "Powtórz hasło",
+    "alreadyRegistered": "Posiadasz już konto?",
+    "signIn": "Zaloguj się",
+    "accountCreated": "Konto utworzone, mozesz się zalogować"
+  },
+  "signIn": {
+    "logIn": "Zaloguj się",
+    "noAccount": "Nie masz jeszcze konta?",
+    "signUp": "Zarejestruj się"
+  },
+  "validation": {
+    "wrongEmailFormat": "Nieprawidłowy adres e-mail",
+    "passwordDontMatch": "Podane hasła nie zgadzają się",
+    "fieldMinLength": "{field} musi mieć conajmniej {characters} znaków."
+  }
+}

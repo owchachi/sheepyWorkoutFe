@@ -1,0 +1,29 @@
+{
+  "common": {
+    "password": "Password",
+    "email": "E-mail",
+    "sheepyWorkout": "Sheepy Workout"
+  },
+  "auth": {
+    "welcomeTo": "Welcome to",
+    "trackAndAnalyzeYourWorkout": "Track and analyze data from your workouts"
+  },
+  "signUp": {
+    "email": "E-mail",
+    "register": "Register",
+    "repeatPassword": "Repeat password",
+    "alreadyRegistered": "Do you have account already?",
+    "signIn": "Sign in",
+    "accountCreated": "Account Created, You can sign-in now."
+  },
+  "signIn": {
+    "logIn": "Log in",
+    "noAccount": "Dont have account yet?",
+    "signUp": "Sign Up"
+  },
+  "validation": {
+    "wrongEmailFormat": "Wrong email format.",
+    "passwordDontMatch": "Passwords dont match.",
+    "fieldMinLength": "{field} must be at least {characters} characters long."
+  }
+}
